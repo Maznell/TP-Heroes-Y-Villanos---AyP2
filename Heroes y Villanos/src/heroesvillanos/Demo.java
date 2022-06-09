@@ -16,6 +16,8 @@ public class Demo {
 		
 		System.out.println(heroe.competir(villano, Caracteristica.VELOCIDAD));
 		System.out.println(heroe.esGanador(villano, Caracteristica.VELOCIDAD));
+		
+		System.out.println("Esto es un syso de prueba");
 	}
 
 }
